@@ -1,0 +1,2 @@
+# connectz_solver
+The goal is to implement a game checker program for Connect Z. In Connect Z the concept of the traditional game of Connect Four is generalized to include playing frames of any size and a target lines of any length. When provided with a data file that describes a game of Connect Z your checker program should determine if that game was won, drawn or contains an error of some kind. The format of the data files and expected output is described in detail below.
